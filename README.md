@@ -23,7 +23,7 @@
 
 ## 📜 Descrição
 
-O projeto "Sistema de Gestão de Colheitas" tem como objetivo auxiliar produtores rurais no controle e monitoramento de suas colheitas, fornecendo uma solução simples, eficiente e integrada com banco de dados Oracle.
+O projeto do trabalho do cap 6 fase 2 tem como objetivo auxiliar produtores rurais no controle e monitoramento de suas colheitas, fornecendo uma solução simples, eficiente e integrada com banco de dados Oracle.
 
 Durante o desenvolvimento, foi utilizado Python para criação de um sistema interativo de terminal que permite registrar colheitas (com data, quantidade e método), listar relatórios ordenados por data e excluir registros antigos ou errôneos. A ferramenta também utiliza bibliotecas como oracledb para conexão com o Oracle Database e pandas para exibição tabular dos dados.
 
@@ -36,17 +36,17 @@ Dentre os arquivos e pastas presentes na raiz do projeto, definem-se:
 
 - <b>.github</b>: Nesta pasta ficarão os arquivos de configuração específicos do GitHub que ajudam a gerenciar e automatizar processos no repositório.
 
-- <b>assets</b>: aqui estão os arquivos relacionados a elementos não-estruturados deste repositório, como imagens.
+- <b>assets</b>: Aqui estão os arquivos relacionados a elementos não-estruturados deste repositório, como imagens.
 
 - <b>config</b>: Posicione aqui arquivos de configuração que são usados para definir parâmetros e ajustes do projeto.
 
-- <b>document</b>: aqui estão todos os documentos do projeto que as atividades poderão pedir. Na subpasta "other", adicione documentos complementares e menos importantes.
+- <b>document</b>: Documentos do projeto que as atividades poderão pedir. Na subpasta "other", adicione documentos complementares e menos importantes.
 
-- <b>scripts</b>: Posicione aqui scripts auxiliares para tarefas específicas do seu projeto. Exemplo: deploy, migrações de banco de dados, backups.
+- <b>scripts</b>: Scripts auxiliares para tarefas específicas do nosso projeto. Exemplo: deploy, migrações de banco de dados, backups.
 
 - <b>src</b>: Todo o código fonte criado para o desenvolvimento do projeto ao longo das 7 fases.
 
-- <b>README.md</b>: arquivo que serve como guia e explicação geral sobre o projeto (o mesmo que você está lendo agora).
+- <b>README.md</b>: arquivo que serve como guia e explicação geral sobre o projeto 
 
 ## 🔧 Como executar o código
 
@@ -63,11 +63,11 @@ Biblioteca pandas
 
 ## 🗃 Histórico de lançamentos
 
-* 0.5.0 - 20/04/2024
+* Trabalho cap 7 fase 2 - 18/04/2025
     * 
-* 0.4.0 - XX/XX/2024
+* Trabalho cap 6 fase 2 - 21/04/2025
     * 
-* 0.3.0 - XX/XX/2024
+* Trabalho cap 1 fase 2 - 22/04/2025
     * 
 * 0.2.0 - XX/XX/2024
     * 
