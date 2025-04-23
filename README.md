@@ -52,6 +52,8 @@ Dentre os arquivos e pastas presentes na raiz do projeto, definem-se:
 
 Requisitos:
 
+PARA O TRABALHO EM PYTHON
+
 Python 3.11 ou superior
 
 Oracle Client instalado ou Oracle Instant Client
@@ -60,6 +62,11 @@ Biblioteca oracledb
 
 Biblioteca pandas
 
+PARA O TRABALHO DATA MODELER
+
+sql developer
+
+datamodeler
 
 ## 🗃 Histórico de lançamentos
 
