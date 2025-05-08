@@ -39,10 +39,15 @@ Solução: Monitorar esses dois fatores já é suficiente para prever falhas com
 
 ![image](https://github.com/user-attachments/assets/039fc19c-f1d1-469d-8e20-b77a47b1670b)
 
+
+## 📥 Estratégia de Coleta de Dados
+
+A coleta de dados será realizada por meio de um dispositivo ESP32, que estará equipado com sensores de temperatura (como o DHT11 ou DHT22) e vibração (como o SW-420 ou acelerômetro MPU6050). Essa estratégia simula um cenário real de monitoramento em uma linha de produção industrial, onde a variação anormal de temperatura ou vibração pode indicar uma falha iminente em equipamentos.
+
 ## 🧑‍🤝‍🧑 Divisão de responsabilidade entre membros
 
 - <a href="https://www.linkedin.com/company/inova-fusca">Leonardo Nunes Urbano</a> = Coleta de dados, banco de dados e programação em python
-- <a href="https://www.linkedin.com/company/inova-fusca">Erick Souza Pereira</a> Modelagem de ia, dashboard e programação em python
+- <a href="https://www.linkedin.com/company/inova-fusca">Erick Souza Pereira</a> = Modelagem de ia, dashboard e programação em python
 
 ## 📋 Licença
 
