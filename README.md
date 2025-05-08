@@ -28,8 +28,11 @@ Solução: Monitorar esses dois fatores já é suficiente para prever falhas com
 
 ## 🧑‍💻 Tecnologias
 -Dados serão coletados a partir de sensores: ESP32
+
 -Dados serão armazenados em um banco de dados local
+
 -Integração com modelos de IA: TensorFlow
+
 -Processamento acontecerá em um computador local
 
 ## 📈 Diagrama
