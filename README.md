@@ -6,7 +6,7 @@
 
 <br>
 
-# Nome do projeto
+# Enterprise Challenge - Sprint 1 - Reply 
 
 ## Nome do grupo
 
@@ -23,11 +23,10 @@
 
 ## 📜 Descrição
 
-O projeto "Sistema de Gestão de Colheitas" tem como objetivo auxiliar produtores rurais no controle e monitoramento de suas colheitas, fornecendo uma solução simples, eficiente e integrada com banco de dados Oracle.
+Problema: Motores elétricos são comuns em linhas de produção. Um aumento incomum de temperatura ou vibração pode indicar desgaste, sobrecarga ou falha iminente.
 
-Durante o desenvolvimento, foi utilizado Python para criação de um sistema interativo de terminal que permite registrar colheitas (com data, quantidade e método), listar relatórios ordenados por data e excluir registros antigos ou errôneos. A ferramenta também utiliza bibliotecas como oracledb para conexão com o Oracle Database e pandas para exibição tabular dos dados.
+Solução: Monitorar esses dois fatores já é suficiente para prever falhas com boa precisão.
 
-A proposta nasce da dor enfrentada por pequenos e médios produtores que ainda usam métodos manuais ou planilhas dispersas para esse tipo de controle. Ao digitalizar esse processo com um sistema simples e funcional, visamos aumentar a produtividade, evitar desperdícios e contribuir com a sustentabilidade no agronegócio.
 
 
 ## 📁 Estrutura de pastas
