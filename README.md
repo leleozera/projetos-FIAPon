@@ -41,8 +41,8 @@ Solução: Monitorar esses dois fatores já é suficiente para prever falhas com
 
 ## 🧑‍🤝‍🧑 Divisão de responsabilidade entre membros
 
-- <a href="https://www.linkedin.com/company/inova-fusca">Leonardo Nunes Urbano</a> = coleta de dados, banco de dados e programação em python
-- <a href="https://www.linkedin.com/company/inova-fusca">Erick Souza Pereira</a> = modelagem de ia, dashboard e programação em python
+- <a href="https://www.linkedin.com/company/inova-fusca">Leonardo Nunes Urbano</a> = Coleta de dados, banco de dados e programação em python
+- <a href="https://www.linkedin.com/company/inova-fusca">Erick Souza Pereira</a> Modelagem de ia, dashboard e programação em python
 
 ## 📋 Licença
 
