@@ -20,58 +20,21 @@
 ### Coordenador(a)
 - <a href="https://www.linkedin.com/company/inova-fusca">ANDRÉ GODOI CHIOVATO</a>
 
-
 ## 📜 Descrição
 
 Problema: Motores elétricos são comuns em linhas de produção. Um aumento incomum de temperatura ou vibração pode indicar desgaste, sobrecarga ou falha iminente.
 
 Solução: Monitorar esses dois fatores já é suficiente para prever falhas com boa precisão.
 
+## 🧑‍💻 Tecnologias
+-Dados serão coletados a partir de sensores: ESP32
+-Dados serão armazenados em um banco de dados local
+-Integração com modelos de IA: TensorFlow
+-Processamento acontecerá em um computador local
 
+## 📈 Diagrama
 
-## 📁 Estrutura de pastas
-
-Dentre os arquivos e pastas presentes na raiz do projeto, definem-se:
-
-- <b>.github</b>: Nesta pasta ficarão os arquivos de configuração específicos do GitHub que ajudam a gerenciar e automatizar processos no repositório.
-
-- <b>assets</b>: aqui estão os arquivos relacionados a elementos não-estruturados deste repositório, como imagens.
-
-- <b>config</b>: Posicione aqui arquivos de configuração que são usados para definir parâmetros e ajustes do projeto.
-
-- <b>document</b>: aqui estão todos os documentos do projeto que as atividades poderão pedir. Na subpasta "other", adicione documentos complementares e menos importantes.
-
-- <b>scripts</b>: Posicione aqui scripts auxiliares para tarefas específicas do seu projeto. Exemplo: deploy, migrações de banco de dados, backups.
-
-- <b>src</b>: Todo o código fonte criado para o desenvolvimento do projeto ao longo das 7 fases.
-
-- <b>README.md</b>: arquivo que serve como guia e explicação geral sobre o projeto (o mesmo que você está lendo agora).
-
-## 🔧 Como executar o código
-
-Requisitos:
-
-Python 3.11 ou superior
-
-Oracle Client instalado ou Oracle Instant Client
-
-Biblioteca oracledb
-
-Biblioteca pandas
-
-
-## 🗃 Histórico de lançamentos
-
-* 0.5.0 - 20/04/2024
-    * 
-* 0.4.0 - XX/XX/2024
-    * 
-* 0.3.0 - XX/XX/2024
-    * 
-* 0.2.0 - XX/XX/2024
-    * 
-* 0.1.0 - XX/XX/2024
-    *
+![image](https://github.com/user-attachments/assets/039fc19c-f1d1-469d-8e20-b77a47b1670b)
 
 ## 📋 Licença
 
