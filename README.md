@@ -45,7 +45,7 @@ A coleta de dados será realizada por meio de um dispositivo ESP32, que estará 
 ## 🧑‍🤝‍🧑 Divisão de responsabilidade entre membros
 
 - <a href="https://www.linkedin.com/company/inova-fusca">Leonardo Nunes Urbano</a> = Coleta de dados, banco de dados e programação em python
-- <a href="https://www.linkedin.com/company/inova-fusca">Erick Souza Pereira</a> = Modelagem de ia, dashboard e programação em python
+- <a href="https://www.linkedin.com/company/inova-fusca">Erick Souza Pereira</a> = Modelagem de IA, dashboard e programação em python
 
 ## 📋 Licença
 
