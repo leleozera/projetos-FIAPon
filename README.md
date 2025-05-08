@@ -8,8 +8,6 @@
 
 # Enterprise Challenge - Sprint 1 - Reply 
 
-## Nome do grupo
-
 ## 👨‍🎓 Integrantes: 
 - <a href="https://www.linkedin.com/company/inova-fusca">Leonardo Nunes Urbano 1</a>
 - <a href="https://www.linkedin.com/company/inova-fusca">Erick Souza Pereira 2</a>
