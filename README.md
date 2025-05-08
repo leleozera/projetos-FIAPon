@@ -41,8 +41,8 @@ Solução: Monitorar esses dois fatores já é suficiente para prever falhas com
 
 ## 🧑‍🤝‍🧑 Divisão de responsabilidade entre membros
 
-- <a href="https://www.linkedin.com/company/inova-fusca">Leonardo Nunes Urbano 1</a>=
-- <a href="https://www.linkedin.com/company/inova-fusca">Erick Souza Pereira 2</a>=
+- <a href="https://www.linkedin.com/company/inova-fusca">Leonardo Nunes Urbano</a> =
+- <a href="https://www.linkedin.com/company/inova-fusca">Erick Souza Pereira</a> =
 
 ## 📋 Licença
 
