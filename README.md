@@ -27,13 +27,13 @@ Problema: Motores elétricos são comuns em linhas de produção. Um aumento inc
 Solução: Monitorar esses dois fatores já é suficiente para prever falhas com boa precisão.
 
 ## 🧑‍💻 Tecnologias
-- <a Dados serão coletados a partir de sensores: ESP32</a>
+-  Dados serão coletados a partir de sensores: ESP32
 
-- <a Dados serão armazenados em um banco de dados local</a>
+-  Dados serão armazenados em um banco de dados local
 
-- <a Integração com modelos de IA: TensorFlow</a>
+-  Integração com modelos de IA: TensorFlow
 
-- <a Processamento acontecerá em um computador local /a>
+-  Processamento acontecerá em um computador local
 
 ## 📈 Diagrama
 
