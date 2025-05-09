@@ -22,7 +22,7 @@
 
 Problema: Este projeto simula uma solução de monitoramento inteligente para prevenir falhas em motores industriais, utilizando dados de temperatura e vibração coletados por sensores integrados ao ESP32 (ou simulados via Python). Motores elétricos são comuns em linhas de produção. Um aumento incomum de temperatura ou vibração pode indicar desgaste, sobrecarga ou falha iminente. Falhas inesperadas nesses equipamentos causam paralisações, perdas operacionais e custos com manutenção corretiva.
 
-Solução: Monitorar esses dois fatores já é suficiente para prever falhas com boa precisão. Monitorando continuamente essas variáveis, podemos detectar anormalidades e agir antes da quebra, reduzindo custos e melhorando a eficiência.
+Solução: Monitorar esses dois fatores já é suficiente para prever falhas com boa precisão. Ao monitorarmos continuamente essas variáveis, podemos detectar anormalidades e agir antes da quebra, reduzindo custos e melhorando a eficiência.
 
 ## 🧑‍💻 Tecnologias
 -  Dados serão coletados a partir de sensores: ESP32
