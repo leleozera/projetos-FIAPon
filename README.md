@@ -27,9 +27,9 @@ Dentre os arquivos e pastas presentes na raiz do projeto, definem-se:
 
 - <b>.Enterprise Challenge - Sprint 1 - Reply</b>: Nesta pasta ficarão todos os arquivos necessarios desse trabalho
 
-- <b>Cap 14 - A primeira técnica de aprendizado de máquina</b>: esta pasta ficarão todos os arquivos desse trabalho
+- <b>Cap 14 - A primeira técnica de aprendizado de máquina</b>: Nesta pasta ficarão todos os arquivos desse trabalho
 
-- <b>Cap 1 - Construindo uma máquina agrícola</b>: esta pasta ficarão todos os arquivos desse trabalho
+- <b>Cap 1 - Construindo uma máquina agrícola</b>: Nesta pasta ficarão todos os arquivos desse trabalho
 
 - <b>README.md</b>: arquivo que serve como guia e explicação geral sobre o projeto (o mesmo que você está lendo agora).
 
