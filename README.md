@@ -6,7 +6,9 @@
 
 <br>
 
-# Enterprise Challenge - Sprint 1 - Reply 
+# Nome do projeto
+
+## Nome do grupo
 
 ## 👨‍🎓 Integrantes: 
 - <a href="https://www.linkedin.com/company/inova-fusca">Leonardo Nunes Urbano 1</a>
@@ -18,36 +20,50 @@
 ### Coordenador(a)
 - <a href="https://www.linkedin.com/company/inova-fusca">ANDRÉ GODOI CHIOVATO</a>
 
-## 📜 Descrição
 
-Problema: Este projeto simula uma solução de monitoramento inteligente para prevenir falhas em motores industriais, utilizando dados de temperatura e vibração coletados por sensores integrados ao ESP32 (ou simulados via Python). Motores elétricos são comuns em linhas de produção. Um aumento incomum de temperatura ou vibração pode indicar desgaste, sobrecarga ou falha iminente. Falhas inesperadas nesses equipamentos causam paralisações, perdas operacionais e custos com manutenção corretiva.
+## 📁 Estrutura de pastas
 
-Solução: Monitorar esses dois fatores já é suficiente para prever falhas com boa precisão. Ao monitorarmos continuamente essas variáveis, podemos detectar anormalidades e agir antes da quebra, reduzindo custos e melhorando a eficiência.
+Dentre os arquivos e pastas presentes na raiz do projeto, definem-se:
 
-## 🧑‍💻 Tecnologias
--  Dados serão coletados a partir de sensores: ESP32
+- <b>.Enterprise Challenge - Sprint 1 - Reply</b>: Nesta pasta ficarão todos os arquivos necessarios desse trabalho
 
--  Dados serão armazenados em um banco de dados local
+- <b>Cap 14 - A primeira técnica de aprendizado de máquina</b>: esta pasta ficarão todos os arquivos desse trabalho
 
--  Integração com modelos de IA: TensorFlow
+- <b>Cap 1 - Construindo uma máquina agrícola</b>: esta pasta ficarão todos os arquivos desse trabalho
 
--  Processamento acontecerá em um computador local
+- <b>README.md</b>: arquivo que serve como guia e explicação geral sobre o projeto (o mesmo que você está lendo agora).
 
-## 📈 Diagrama
+## 🔧 Como executar o códigos
 
-![image](https://github.com/user-attachments/assets/039fc19c-f1d1-469d-8e20-b77a47b1670b)
+Requisitos:
+
+Python 3.11 ou superior
+
+Oracle Client instalado ou Oracle Instant Client
+
+Biblioteca oracledb
+
+Biblioteca pandas
 
 
-## 📥 Estratégia de Coleta de Dados
+## 🗃 Histórico de lançamentos
 
-A coleta de dados será realizada por meio de um dispositivo ESP32, que estará equipado com sensores de temperatura (como o DHT11 ou DHT22) e vibração (como o SW-420 ou acelerômetro MPU6050). Essa estratégia simula um cenário real de monitoramento em uma linha de produção industrial, onde a variação anormal de temperatura ou vibração pode indicar uma falha iminente em equipamentos.
-
-## 🧑‍🤝‍🧑 Divisão de responsabilidade entre membros
-
-- <a href="https://www.linkedin.com/company/inova-fusca">Leonardo Nunes Urbano</a> = Coleta de dados, banco de dados e programação em python
-- <a href="https://www.linkedin.com/company/inova-fusca">Erick Souza Pereira</a> = Modelagem de IA, dashboard e programação em python
+* Enterprise Challenge - Sprint 1 - Reply - 08/05/2024
+    * 
+* Cap 14 - A primeira técnica de aprendizado de máquina - 20/05/2024
+    * 
+* 0.3.0 - XX/XX/2024
+    * 
+* 0.2.0 - XX/XX/2024
+    * 
+* 0.1.0 - XX/XX/2024
+    *
 
 ## 📋 Licença
+
+<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/agodoi/template">MODELO GIT FIAP</a> por <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://fiap.com.br">Fiap</a> está licenciado sobre <a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Attribution 4.0 International</a>.</p>
+
+
 
 <img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/agodoi/template">MODELO GIT FIAP</a> por <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://fiap.com.br">Fiap</a> está licenciado sobre <a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Attribution 4.0 International</a>.</p>
 
