@@ -50,7 +50,7 @@ Passos:
 ## 🖼️ Imagem do circuito
 
 <p align="center">
-  ![image](https://github.com/user-attachments/assets/2075086f-99cc-47b9-8928-66ea388be5d4)
+ ![Screenshot_2](https://github.com/user-attachments/assets/79c381c6-516b-4c35-82dc-c1f07af75a6a)
 
 </p>
 
