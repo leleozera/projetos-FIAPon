@@ -50,9 +50,9 @@ Biblioteca pandas
 
 * Enterprise Challenge - Sprint 1 - Reply - 08/05/2024
     * 
-* Cap 14 - A primeira técnica de aprendizado de máquina - 20/05/2024
+* Cap 14 - A primeira técnica de aprendizado de máquina - 19/05/2024
     * 
-* 0.3.0 - XX/XX/2024
+* Cap 1 - Construindo uma máquina agrícola_fase3 - 20/05/2024
     * 
 * 0.2.0 - XX/XX/2024
     * 
