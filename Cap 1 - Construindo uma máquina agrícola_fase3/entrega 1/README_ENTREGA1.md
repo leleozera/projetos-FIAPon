@@ -50,7 +50,8 @@ Passos:
 ## 🖼️ Imagem do circuito
 
 <p align="center">
-  <img src="assets/circuito-wokwi.png" width="60%">
+  ![image](https://github.com/user-attachments/assets/2075086f-99cc-47b9-8928-66ea388be5d4)
+
 </p>
 
 ## 📋 Licença
