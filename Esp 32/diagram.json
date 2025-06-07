@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "author": "Seu Nome",
+  "editor": "wokwi",
+  "parts": [
+    { "type": "wokwi-esp32-devkit-v1", "id": "esp1", "top": -91.3, "left": -139.4, "attrs": {} },
+    { "type": "wokwi-dht22", "id": "dht1", "top": -114.9, "left": 61.8, "attrs": {} },
+    { "type": "wokwi-resistor", "id": "r1", "top": 130, "left": 180, "attrs": { "value": "10k" } }
+  ],
+  "connections": [
+    [ "dht1:VCC", "esp1:3V3", "red", [ "v0" ] ],
+    [ "dht1:GND", "esp1:GND", "black", [ "v0" ] ],
+    [ "dht1:SDA", "esp1:4", "green", [ "v0" ] ],
+    [ "r1:1", "dht1:VCC", "orange", [ "v0" ] ],
+    [ "r1:2", "dht1:SDA", "orange", [ "v0" ] ]
+  ],
+  "dependencies": {}
+}
