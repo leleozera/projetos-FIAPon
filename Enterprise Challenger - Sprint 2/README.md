@@ -55,6 +55,6 @@ framework = arduino
 monitor_speed = 115200
 
 lib_deps =
-  https://github.com/beegee-tokyo/DHTesp.git
-  https://github.com/adafruit/Adafruit_MPU6050.git
-  https://github.com/adafruit/Adafruit_Sensor.git
+https://github.com/beegee-tokyo/DHTesp.git
+https://github.com/adafruit/Adafruit_MPU6050.git
+https://github.com/adafruit/Adafruit_Sensor.git
