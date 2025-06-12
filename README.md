@@ -25,11 +25,11 @@
 
 Dentre os arquivos e pastas presentes na raiz do projeto, definem-se:
 
-- <b>.Enterprise Challenge - Sprint 1 - Reply</b>: Nesta pasta ficarão todos os arquivos necessarios desse trabalho
+- <b>.Enterprise Challenge - Sprint 2 - Reply</b>: Nesta pasta ficarão todos os arquivos necessarios desse trabalho
 
-- <b>Cap 14 - A primeira técnica de aprendizado de máquina</b>: Nesta pasta ficarão todos os arquivos desse trabalho
+- <b>
 
-- <b>Cap 1 - Construindo uma máquina agrícola</b>: Nesta pasta ficarão todos os arquivos desse trabalho
+- <b>
 
 - <b>README.md</b>: arquivo que serve como guia e explicação geral sobre o projeto (o mesmo que você está lendo agora).
 
@@ -37,22 +37,16 @@ Dentre os arquivos e pastas presentes na raiz do projeto, definem-se:
 
 Requisitos:
 
-Python 3.11 ou superior
 
-Oracle Client instalado ou Oracle Instant Client
-
-Biblioteca oracledb
-
-Biblioteca pandas
 
 
 ## 🗃 Histórico de lançamentos
 
-* Enterprise Challenge - Sprint 1 - Reply - 08/05/2024
+* Enterprise Challenge - Sprint 2 - Reply - 11/06/2024
     * 
-* Cap 14 - A primeira técnica de aprendizado de máquina - 19/05/2024
+* Cap  - 
     * 
-* Cap 1 - Construindo uma máquina agrícola_fase3 - 20/05/2024
+* Cap  - 
     * 
 * 0.2.0 - XX/XX/2024
     * 
