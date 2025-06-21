@@ -8,6 +8,9 @@
 
 <br>
 
+
+# 📼 Link do video no Youtube: https://youtu.be/8ZTxY27ew34
+
 # 🌱 Projeto FarmTech Solutions  
 Sistema de monitoramento automatizado de irrigação baseado em sensores, inteligência artificial e ESP32.
 
