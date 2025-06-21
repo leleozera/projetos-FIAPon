@@ -27,7 +27,7 @@ Dentre os arquivos e pastas presentes na raiz do projeto, definem-se:
 
 - <b>.Enterprise Challenge - Sprint 2 - Reply</b>: Nesta pasta ficarão todos os arquivos necessarios desse trabalho
 
-- <b>
+- <b> Cap 1 - Automação inteligencia na farmtech solutions - Nesta pasta ficarão todos os arquivos necessarios desse trabalho
 
 - <b>
 
@@ -42,9 +42,9 @@ Requisitos:
 
 ## 🗃 Histórico de lançamentos
 
-* Enterprise Challenge - Sprint 2 - Reply - 11/06/2024
+* Enterprise Challenge - Sprint 2 - Reply - 11/06/2025
     * 
-* Cap  - 
+* Cap 1 - Automação inteligencia na farmtech solutions  - 20/06/2025
     * 
 * Cap  - 
     * 
